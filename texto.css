@@ -1,0 +1,92 @@
+h1{
+  font-family: "Homer Simpson UI";
+  font-size: 70px;
+  text-align: center;
+  color:white;
+  background-color: rgb(0, 0, 0);
+transition: background-color .5s;
+}
+a{
+font-family: "Homer Simpson UI";
+  font-size: 70px;                      /*esta maneja 3 imagenes principales de  titulo, registrar, conocenos y iniciar secion*/
+  text-align: center;
+  color:white;
+}
+a:link, a:visited, a:active {
+  text-decoration:none;                  /*quitar lo subrayado  */
+}
+p{
+
+font-size: 10px;                   /*modificas la altura del titulo, y iniciar secion */
+text-align: center;
+color: white;
+padding-left:  0px;                         /*texto empujado hacia la derecha */
+padding-right: 0px;                         /*texto empujado hacia la izq */
+margin-left:   99px;                        /*texto empujado hacia la arriba y acorta una margen es como si empujara la majen hacia la derecha  */
+margin-right:  99px;                        /*texto empujado hacia la arriba y acorta una margen es como si empujara la majen hacia la derecha  */
+border: 2px solid rgb(255, 255, 255);     /*se puede arreglar el color y el grosor de la imagen  */
+border-radius: 10px;
+background-color: rgb(0, 0, 0);           /*fondo del cuadro*/
+transition: background-color .5s;           /* pequeña luz que da un ambiente futurista*/  
+
+}
+
+h5{
+ 
+  font-family: "Homer Simpson UI";
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  padding-left:  0px;
+  padding-right: 0px;
+  margin-left:   0px;
+  margin-right:  0px;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background-color: rgb(0, 0, 0);
+  transition: background-color .5s;
+  height: 450px;                            /*Altura de la 3 imagenes del index*/ 
+  }
+  
+  
+
+h2{
+font-family: "Homer Simpson UI"; /* fuente*/ 
+font-size: 50px;  
+text-justify: auto;             /* texto alineado*/ 
+text-align: center;              /* en el centro */ 
+color: white;                  /* color */ 
+padding-left:  0px;               /*propiedades del alrededpr*/ 
+padding-right: 0px;              /*propiedades del alrededpr*/ 
+margin-left:   0px;              /*propiedades del alrededpr*/ 
+margin-right:  0px;             /*propiedades del alrededpr*/ 
+border: 2px solid rgb(255, 255, 255);         /*borde */ 
+border-radius: 10px;       /**/ 
+background-color: rgb(0, 0, 0);
+transition: background-color .5s;
+height: 450px;
+}
+
+
+
+h3{
+ 
+font-family: "Homer Simpson UI";
+font-size: 50px;
+text-align: center;
+color: white;
+padding-left:  0x;
+padding-right: 0x;
+margin-left:   0px;
+margin-right:  0px;
+border: 2px solid rgb(255, 255, 255);
+border-radius: 10px;
+background-color: rgb(0, 0, 0);
+transition: background-color .5s;
+height: 450px;
+}
+
+
+{
+  align-items: right;
+}

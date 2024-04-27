@@ -1,0 +1,59 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Espacio De Descarga Educativa</title>
+    <link rel="stylesheet" href="font.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="fondo.css">           <!-- estilos  -->
+    <link rel="stylesheet" href="texto3.css">
+    <link rel="stylesheet" href="movimiento2.css">
+</head>
+<body>
+    <h1>
+        <a title="Espacio De Descarga Educativa" href=""><img src="logo.png" alt="imagen 3"
+        width="150px"
+        padding-left="0x"
+        padding-right= "50x"
+        margin-left:= "30px"
+        margin-right="30px"
+        border-solid= "10px" rgb(161, 161, 248)
+        border-radius= 50px; > Espacio De Descarga Educativa
+        
+    </a> <!-- titulo con hover -->
+    <nav><ul>
+        <nav><ul>
+            <li><a href="http://localhost/proyecto/segundointento/ejemplo.html">Inicio</a></li>
+                <li><a href="">Categorias</a>
+                    <ul><li><a href="http://localhost/proyecto/segundointento/matematica.html">Matematica</a></li>
+                    <li><a href="http://localhost/proyecto/materias/español.html">Español</a></li>
+                    <li><a href="http://localhost/proyecto/materias/tecnologia.html">Tecnologia</a></li>         <!-- listado que forma un menu  -->
+                    <li><a href="http://localhost/proyecto/materias/ingles.html">Ingles</a></li>></li>
+                    <li><a href="http://localhost/proyecto/materias/fisica.html">Fisica</a></li></ul>
+                <li><a href="http://localhost/proyecto/segundointento/blog.html">Blog</a></li>
+                <li><a href="http://localhost/proyecto/segundointento/descargas.html">Descargas</a></li>
+                <li><a href="http://localhost/proyecto/segundointento/conocer.html">Quiénes somos</a></li>
+                <li><a href="http://localhost/proyecto/segundointento/index.html">Cerrar Sesion</a></li>
+       
+    </ul></nav>
+    <section class="webdesigntuts-workshop">
+        <form action="" method="">		    
+            <input type="search" placeholder="¿Que Buscas?">		    	<!-- buscador -->
+            <button>Buscar</button>
+        </form>
+       
+          
+       
+    </section>
+  
+    
+    
+    </h1>
+  
+     
+       
+   
+
+</body>
+</html> 

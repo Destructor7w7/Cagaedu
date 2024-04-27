@@ -1,0 +1,18 @@
+h1 :hover{
+    background-color: rgb(161, 162, 167); 
+}
+h2:hover{
+    background: url(cono.gif) repeat rgb(252, 252, 252);
+    }
+h3:hover{
+    background: url(regis.gif) repeat rgb(255, 255, 255);
+    } 
+    
+h5:hover{
+     background: url(iniciar.gif) repeat rgb(255, 255, 255);
+}
+p:hover{
+    background: url(iniciar.gif) repeat rgb(255, 255, 255); /*gift para la trancicion*/ 
+    }    
+
+   
